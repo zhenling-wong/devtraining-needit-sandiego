@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <description/>
+        <operation>read</operation>
+        <rca_type>real_rca</rca_type>
+        <source/>
+        <source_scope display_value=" Untrustworthy Application">e13c5599971a5110bf2b3a300153afe6</source_scope>
+        <source_table/>
+        <source_type>5</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-02 13:40:28</sys_created_on>
+        <sys_id>b2134e21975a9110bf2b3a300153afa1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>e13c5599971a5110bf2b3a300153afe6</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_b2134e21975a9110bf2b3a300153afa1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-02 13:54:20</sys_updated_on>
+        <target/>
+        <target_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</target_scope>
+        <target_table>x_58872_needit_needit</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+</record_update>
